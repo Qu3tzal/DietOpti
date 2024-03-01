@@ -1,0 +1,30 @@
+targets:
+  calories: 1019
+  proteins: 122
+  fats: 40
+  carbs: 42
+foods:
+  Yogurt:
+    calories: 66
+    proteins: 4
+    fats: 2
+    carbs: 8
+    enjoyment: 7
+  Chicken:
+    calories: 173
+    proteins: 31
+    fats: 5
+    carbs: 0
+    enjoyment: 7
+  Frozen vegetables:
+    calories: 76
+    proteins: 3
+    fats: 1.3
+    carbs: 13
+    enjoyment: 5
+  Oats:
+    calories: 370
+    proteins: 15
+    fats: 7
+    carbs: 69
+    enjoyment: 6
